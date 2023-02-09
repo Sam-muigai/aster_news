@@ -70,4 +70,3 @@ fun MyApp(viewModel: HomeScreenViewModel,content:@Composable ()->Unit) {
     }
 }
 
-val names = arrayListOf<String>()
