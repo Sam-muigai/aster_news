@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aster News</string>
+    <string name="app_title">Top Stories for you</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="my_profile">My Profile</string>
+    <string name="error">Error</string>
+    <string name="delete">Delete</string>
+    <string name="saved_news">Saved News</string>
+    <string name="back">Navigate back</string>
+    <string name="theme">Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="title">Title</string>
+</resources>
