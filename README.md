@@ -19,13 +19,13 @@ You can use the Developer option to get a free API KEY.You can clone this applic
 
 # Tech Stacks and Open-Source Libraries
 * Minimum SDK level 24
-* [Coroutines]()- for running asynchronous tasks.
-* [Flow]()- for emitting values reactively
-* [Hilt]()- for dependency Injection
-* [Coil]()- for loading images.
-* [Jsoup]()- for html parsing.
-* [Jetpack Compose]()- for building UI in a declarative manner.
-* [Room]()- for storing news in SQLite database .
-* [Jetpack Datastore]()- for storing typed objects with protocol buffers.
-* [Lifecycle]()- React to android lifecycle changes.
-* [Navigation components]()- Implement navigation in app.
+* [Coroutines](https://kotlinlang.org/docs/multiplatform-mobile-concurrency-and-coroutines.html#coroutines)- for running asynchronous tasks.
+* [Flow](https://developer.android.com/kotlin/flow)- for emitting values reactively
+* [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)- for dependency Injection
+* [Coil](https://coil-kt.github.io/coil/)- for loading images.
+* [Jsoup](https://jsoup.org/download)- for html parsing.
+* [Jetpack Compose](https://developer.android.com/jetpack/compose)- for building UI in a declarative manner.
+* [Room](https://developer.android.com/training/data-storage/room)- for storing news in SQLite database .
+* [Jetpack Datastore](https://developer.android.com/topic/libraries/architecture/datastore)- for storing typed objects with protocol buffers.
+* [Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)- React to android lifecycle changes.
+* [Navigation components](https://developer.android.com/jetpack/compose/navigation)- Implement navigation in app.
