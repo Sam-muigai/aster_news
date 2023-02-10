@@ -141,18 +141,6 @@ fun TopBar(modifier: Modifier = Modifier,
                     )
                 )
             }
-            Row(
-                modifier = Modifier.fillMaxHeight(),
-                verticalAlignment = Alignment.CenterVertically
-            ) {
-                Spacer(modifier = Modifier.width(15.dp))
-                Icon(
-                    modifier = Modifier.size(25.dp),
-                    imageVector = Icons.Default.Search,
-                    contentDescription = stringResource(id = R.string.search),
-                    tint = Color.Black
-                )
-            }
         }
     }
 }

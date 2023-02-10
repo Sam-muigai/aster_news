@@ -10,7 +10,8 @@ import javax.inject.Inject
 class CategoriesNewsRepositoryImpl @Inject constructor(
     private val api: AsterNewsApi
 ): CategoriesNewsRepository {
-    override suspend fun getCategoriesNews(category:String): Flow<CategoryNewsDto> = flow {
+    override suspend fun getCategoriesNews(category:String):
+            Flow<CategoryNewsDto> = flow {
         val news = api.getCategoriesNews(category = category)
         emit(news)
     }
