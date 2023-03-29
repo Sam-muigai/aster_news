@@ -7,9 +7,13 @@ You can use the Developer option to get a free API KEY.You can clone this applic
 
 # Screenshot(light mode)
 <img src="https://user-images.githubusercontent.com/97452496/218014240-a7553983-6fb5-4434-b2fc-fa6aae8d71db.jpg" width="250"/>
-![2](https://user-images.githubusercontent.com/97452496/218014288-02318b5f-daee-42d5-b54a-c910ae5e0ae0.jpg)
-![3](https://user-images.githubusercontent.com/97452496/218014303-23b7265e-4ed0-45e6-91f9-45df8e3a68fd.jpg)
-![4](https://user-images.githubusercontent.com/97452496/218014320-20d773fd-4f9f-409c-9d49-830513741de0.jpg)
+
+<img src="https://user-images.githubusercontent.com/97452496/218014288-02318b5f-daee-42d5-b54a-c910ae5e0ae0.jpg" width="250"/>
+
+<img src="https://user-images.githubusercontent.com/97452496/218014303-23b7265e-4ed0-45e6-91f9-45df8e3a68fd.jpg" width="250"/>
+
+<img src="https://user-images.githubusercontent.com/97452496/218014320-20d773fd-4f9f-409c-9d49-830513741de0.jpg" width="250"/>
+
 
 # Screenshot(dark mode)
 ![5](https://user-images.githubusercontent.com/97452496/218014336-c0b90086-e67d-4659-8f31-d366b2ee1675.jpg)
