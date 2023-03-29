@@ -16,10 +16,13 @@ You can use the Developer option to get a free API KEY.You can clone this applic
 
 
 # Screenshot(dark mode)
-![5](https://user-images.githubusercontent.com/97452496/218014336-c0b90086-e67d-4659-8f31-d366b2ee1675.jpg)
-![6](https://user-images.githubusercontent.com/97452496/218014369-31d7f20f-f05e-4543-8505-15e3cc814259.jpg)
-![7](https://user-images.githubusercontent.com/97452496/218014381-7ae8e648-4946-4e44-9980-7a44bd8fcc10.jpg)
-![8](https://user-images.githubusercontent.com/97452496/218014393-f6a7abf7-e4e8-4c00-b8af-53569583cfc3.jpg)
+<img src="https://user-images.githubusercontent.com/97452496/218014336-c0b90086-e67d-4659-8f31-d366b2ee1675.jpg" width="250"/>
+
+<img src="https://user-images.githubusercontent.com/97452496/218014369-31d7f20f-f05e-4543-8505-15e3cc814259.jpg" width="250"/>
+
+<img src="https://user-images.githubusercontent.com/97452496/218014381-7ae8e648-4946-4e44-9980-7a44bd8fcc10.jpg" width="250"/>
+
+<img src="https://user-images.githubusercontent.com/97452496/218014393-f6a7abf7-e4e8-4c00-b8af-53569583cfc3.jpg" width="250"/>
 
 # Tech Stacks and Open-Source Libraries
 * Minimum SDK level 24
